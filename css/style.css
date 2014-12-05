@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: "coughymachine";
+    src: url("../fonts/coughymachine.ttf") format("truetype");
+}
+
+.sok_font{
+    font-family: "coughymachine";
+}
+
+.button_sok{
+    width:100px;
+    height:40px;
+    border:none;
+    border-radius:10px;
+    text-align: center;
+    font-family: "coughymachine";
+    font-size: 14pt;
+    color:#FFFFFF;
+    background:#31708f;
+    outline:none;
+}
+
+.button_sok_2{
+    width:130px;
+    height:40px;
+    border:none;
+    border-radius:10px;
+    text-align: center;
+    font-family: "coughymachine";
+    font-size: 14pt;
+    color:#FFFFFF;
+    background:#31708f;
+    outline:none;
+}
+
+.select_sok{
+    width:250px;
+    height:40px;
+    border:none;
+    border-top-left-radius:10px;
+    text-align: center;
+    font-family: "coughymachine";
+    font-size: 14pt;
+    color:#7E8D8A;
+    background:#E9E7FF;
+    outline:none;
+}
